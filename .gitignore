@@ -1,0 +1,14 @@
+﻿# Dados privados do usuário (saves, configurações, logs)
+dados/
+*.sav
+*.log
+
+# Saídas e pacotes gerados
+outputs/
+*.zip
+*.rar
+
+# Node / sistema
+node_modules/
+.DS_Store
+Thumbs.db
